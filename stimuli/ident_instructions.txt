@@ -1,0 +1,4 @@
+<h1>Timed Identification Task</h1> <
+p>You will hear a syllable. Decide if the syllable starts with /b/ or /p/ and press the corresponding key as fast as you can.</p> 
+<p>Please make sure you are using headphones, your sound is on, and you are in a relatively distraction-free space.</p> 
+<p>Press any key to begin.</p>
