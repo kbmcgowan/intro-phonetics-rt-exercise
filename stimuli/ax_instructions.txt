@@ -1,0 +1,4 @@
+<h1>AX Discrimination Task</h1> <
+p>You will hear two words. Decide if the words are the same or different and click on the corresponding button.</p> 
+<p>Please make sure your headphones are in and your sound is on.</p> 
+<p>Press next to begin.</p>

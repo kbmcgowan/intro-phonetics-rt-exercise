@@ -1,0 +1,9 @@
+baseline,word1,word2,factor,comparison,answer,sound1,sound2
+natɛ,natɛ,natɛk,final_k,0_k,1,nate,natek
+natɛ,natɛk,natɛk,final_k,k_k,0,natek,natek
+natɛ,natɛ,natɛ,final_k,0_0,0,nate,nate
+natɛ,natɛk,natɛ,final_k,k_0,1,natek,nate
+simɛ,simɛ,simɛ,final_k,0_0,0,sime,sime
+simɛ,simɛk,simɛk,final_k,k_k,0,simek,simek
+simɛ,simɛ,simɛk,final_k,0_k,1,sime,simek
+simɛ,simɛk,simɛ,final_k,k_0,1,sime,simek
